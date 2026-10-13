@@ -1,0 +1,14 @@
+{
+  "project_version": "travel-2026f-v8",
+  "mode": "offline_observed_inputs",
+  "new_api_calls": 0,
+  "splits": {
+    "dev": 9,
+    "public": 24
+  },
+  "hidden_cases_included": 0,
+  "files": {
+    "catalog.jsonl": "9e1957c33c468b6e018ddc7f16fdb59a8d00dacae45a107c8a4c47ad926fe760",
+    "examples.md": "54b259c8cd1771fd75c4dd762228bb452ed7611ce007b3b146a94834bf17cbaa"
+  }
+}

@@ -1,0 +1,27 @@
+/TA/
+
+# Local API keys and environment-specific configuration, at any depth.
+.env
+.env.*
+!.env.example
+
+# Python environments, caches and local editor state.
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.DS_Store
+.idea/
+.vscode/
+
+# Generated local experiment outputs and source submission archives.
+/project/runs/
+/project/submissions/
+
+# Student-authored local test cases are not release or submission files.
+/project/local_cases/
+
+# Temporary policy imports stay in this project directory.
+.runtime/
