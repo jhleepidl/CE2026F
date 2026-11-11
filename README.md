@@ -101,12 +101,11 @@ course submission address:
 2. Your five-case ZIP, created using the [case guide](project/CASE_GUIDE.md).
    Include it even when your cases have not changed.
 
-Accepted contributions replace the supplied starting cases in your five assigned
-slots; revisions do not accumulate. They **do not change the fixed Public set**
-or require changes to the independently prepared Hidden cases. Keep your case
-files and witnesses out of public repositories. All evaluation cases use the
-[published benchmark scope](project/BENCHMARK.md). Scores are compared only on the
-same evaluation-set version.
+Contributions **do not change the fixed Public set** or the independently prepared
+Hidden cases. Keep case files and witnesses out of public repositories. All cases
+use the [published benchmark scope](project/BENCHMARK.md). Scores are compared
+only on the same common evaluation set. Revisions replace assigned contribution
+slots and do not accumulate.
 
 ## Score and leaderboard
 

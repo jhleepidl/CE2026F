@@ -143,6 +143,16 @@ an API error. Responses through `api.json` supports these settings:
 | `gpt-5-nano` | `minimal`, `low`, `medium`, `high` | `low`, `medium`, `high`, or `None` | Keep both `None`. |
 | `gpt-4o-mini` | `None` | `None` | Supported. |
 
+### GPT-5 Mini and Nano API shutdown — November 11, 2026
+
+`gpt-5-mini` and `gpt-5-nano` will shut down on **December 11, 2026**,
+before the project's **December 21, 2026** final source deadline.
+If your solution uses either model, select another supported course model in
+`solution/config.py` and rerun Dev evaluation before December 11.
+Check both answer quality and API cost after changing the model.
+
+See the [official OpenAI API notice](https://developers.openai.com/api/docs/deprecations).
+
 To try `gpt-6-luna` through Responses, set `MODEL="gpt-6-luna"` in
 `solution/config.py`; choose its supported controls from this table.
 

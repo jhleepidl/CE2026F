@@ -43,9 +43,8 @@ Use the exact slot IDs and difficulty levels returned by
 
 For example, `team3-4` is Team 3's fourth slot and must be Forecast. Six teams ×
 five slots make **30 team-contributed evaluation cases**, ten per difficulty.
-Accepted cases replace the supplied starting cases in those slots; revisions
-replace the same slots and do not accumulate. They do not replace the fixed
-Public examples or require changes to the independent Hidden set.
+Revisions use the same assigned slots and do not add cases to the total.
+The fixed Public examples and independent Hidden cases stay in place.
 
 Your five cases are not published to other teams. You know your own cases, but
 not the other teams' cases. Keep case files and witnesses out of public
@@ -54,8 +53,8 @@ Public + 30 team-contributed + 60 independent Hidden cases, once each**.
 Every solver is evaluated on the same set, including its author's five cases.
 
 An invalid contribution remains unaccepted while you correct it before the
-cutoff; the starting cases stay in place. Case validation adds no separate
-case-authoring grade. No API-cost baseline is required with your cases.
+cutoff. Case validation adds no separate case-authoring grade. No API-cost
+baseline is required with your cases.
 
 ## 1. Copy the templates into your slots
 
